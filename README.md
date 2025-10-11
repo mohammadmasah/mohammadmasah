@@ -33,4 +33,21 @@
 
 ---
 
-> “Code is not just about syntax — it’s about solving real problems and creating something meaningful.”
+---
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasah&layout=compact&theme=github_dark)
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-masah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohammad-haroon.masah@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+> 💬 “Learning to code is learning to create the future.”
