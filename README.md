@@ -27,11 +27,6 @@
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-masah/)  
-- ✉️ Email: mohammad-haroon.masah@epitech.eu  
-
----
 
 ---
 
