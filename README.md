@@ -47,5 +47,4 @@
 
 ---
 
-> 💬 “Learning to code is learning to create the future.”  
-> در حال ساختن آینده‌ام با کد 👨‍💻
+> 💬 “Learning to code is learning to create the future.” 
