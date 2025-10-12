@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad MASAH
 
-🎓 Web Development Student @ [Web@cadémie by Epitech Paris](https://www.epitech.eu/)  
+🎓 Web Development Student at [Web@cadémie by Epitech Paris](https://www.epitech.eu/)  
 💻 Future Full Stack Developer | Passionate about building clean, modern & accessible web apps  
 📍 Paris, France
 
