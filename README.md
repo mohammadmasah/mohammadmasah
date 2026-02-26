@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Mohammad MASAH
 
-### **Full-Stack Developer Student @ EPITECH (Web@cadémie)**
-**Seeking a 14-month alternance starting September 2026**
 
 ---
 
-## ✨ Explore My Work
+## ✨ Personal Portfolio
 <p align="center">
   <a href="https://mohammad-h.dev" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-mohammad--h.dev-CC0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -17,19 +15,19 @@
 ## 🏛️ Professional Identity
 > **"Du droit au code : la même rigueur au service de solutions techniques."**
 > 
-> Coming from a Law background, I apply analytical precision to software engineering. Currently refining my craft at EPITECH to build scalable, modern, and high-performance web applications.
+> Coming from a Law background, I apply analytical precision to software engineering. I focus on building scalable, modern, and high-performance web applications with a commitment to excellence.
 
 ---
 
-## 🚀 Key Objectives
-- 🎯 **Alternance:** Open for opportunities starting **September 2026**.
-- 🌱 **Growth:** Deepening my expertise in **React.js**, **Docker**, and **System Architecture**.
-- 🛠️ **Refinement:** Elevating technical execution through professional maturity.
+## 🚀 What I Do
+- 💻 **Development:** Specializing in Full-Stack solutions with a focus on clean architecture.
+- 🌱 **Learning:** Constantly exploring new horizons in **React.js**, **Docker**, and **System Design**.
+- 🛠️ **Problem Solving:** Leveraging professional maturity to solve complex technical challenges.
 
 ---
 
-## 🛠️ Tech Stack & Skills
-**Development:**
+## 🛠️ Tech Stack
+**Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
