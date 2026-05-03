@@ -12,14 +12,9 @@
 
 ## 💡 About Me
 
-> *"From law to code: the same rigor in service of technical solutions."*
+*"From law to code: the same rigor in service of technical solutions."*
 
 Coming from a **Law** background, I apply analytical precision to software engineering. I build **scalable, modern, and high-performance** web applications with a constant commitment to technical excellence.
-
-- 🏗️ Specialized in clean and maintainable **Full-Stack** architecture
-- 🌱 Continuously exploring: **React.js**, **Docker**, and **System Design**
-- ⚖️ Professional maturity from law, applied to engineering
-
 ---
 
 ## 🛠️ Stack Technique
