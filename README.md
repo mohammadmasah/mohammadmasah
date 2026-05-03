@@ -73,14 +73,6 @@ Coming from a **Law** background, I apply analytical precision to software engin
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammadmasah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadmasah&theme=tokyonight&hide_border=true)
 
 </div>
