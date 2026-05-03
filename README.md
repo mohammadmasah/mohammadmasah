@@ -1,8 +1,5 @@
 <div align="center">
 
-```
-```
-
 ### Full-Stack Developer · Student @ Epitech · Paris
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohammad--h.dev-CC0000?style=for-the-badge&logoColor=white)](https://mohammad-h.dev)
