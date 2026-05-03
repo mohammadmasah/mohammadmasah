@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### Full-Stack Developer · Epitech · Paris
+### Full-Stack Developer · Student @ Epitech · Paris
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohammad--h.dev-CC0000?style=for-the-badge&logoColor=white)](https://mohammad-h.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohammad--h.dev-CC0000?style=for-the-badge&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-masah/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad-haroon.masah@epitech.eu)
 
@@ -21,13 +21,13 @@
 
 ## 💡 About Me
 
-> *"Du droit au code : la même rigueur au service de solutions techniques."*
+> *"From law to code: the same rigor in service of technical solutions."*
 
-Venu d'un parcours en **Droit**, j'applique une rigueur analytique au développement logiciel. Je conçois des applications web **scalables, modernes et performantes** avec un engagement constant vers l'excellence technique.
+Coming from a **Law** background, I apply analytical precision to software engineering. I build **scalable, modern, and high-performance** web applications with a constant commitment to technical excellence.
 
-- 🏗️ Spécialisé en architecture **Full-Stack** propre et maintenable
-- 🌱 En exploration continue : **React.js**, **Docker**, **System Design**
-- ⚖️ Maturité professionnelle issue du droit, appliquée à l'ingénierie
+- 🏗️ Specialized in clean and maintainable **Full-Stack** architecture
+- 🌱 Continuously exploring: **React.js**, **Docker**, and **System Design**
+- ⚖️ Professional maturity from law, applied to engineering
 
 ---
 
