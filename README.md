@@ -78,10 +78,8 @@ Coming from a **Law** background, I apply analytical precision to software engin
 </div>
 
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadmasah&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasah&layout=pie&theme=tokyonight&hide_border=true)
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadmasah&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadmasah&theme=tokyonight)
 ---
 
 ## 🏆 GitHub Trophies
