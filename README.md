@@ -98,8 +98,6 @@ Coming from a **Law** background, I apply analytical precision to software engin
 
 <div align="center">
 
-*"Elevating engineering through discipline and continuous learning."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadmasah&color=CC0000&style=flat-square&label=Profile+Views)
 
 </div>
