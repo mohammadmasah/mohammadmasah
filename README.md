@@ -73,13 +73,13 @@ Coming from a **Law** background, I apply analytical precision to software engin
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadmasah&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammadmasah&theme=tokyonight&hide_border=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadmasah&theme=tokyonight)
 
 </div>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadmasah&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadmasah&theme=tokyonight)
+
+
 ---
 
 ## 🏆 GitHub Trophies
