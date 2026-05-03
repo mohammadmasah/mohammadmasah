@@ -78,7 +78,7 @@ Coming from a **Law** background, I apply analytical precision to software engin
 </div>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasah&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadmasah&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
 
 
 ---
